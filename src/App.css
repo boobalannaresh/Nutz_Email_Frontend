@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar{
+  display: flex;
+  flex-direction: column;
+  margin: 10px auto;
+}
+.refresh{
+  margin-top:0px;
+  margin-left:30px;
+  margin-bottom:20px;
+
+}
+
+.loading{
+  text-align: center;
+}
+
+.top-details{
+  display: flex;
+  justify-content: space-between;
+}
+
+.back{
+  margin-top:0px;
+  margin-left:30px;
+  margin-bottom:20px;
+}
